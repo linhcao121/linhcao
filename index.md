@@ -1,8 +1,6 @@
-<html>
-<head><title> BTVN01 </title> </head>
-<body>
-<h1>Tạo tài khoản mới </h1>
-<p> Luôn miễn phí .</p>
+
+#.Tạo tài khoản mới 
+##. Luôn miễn phí 
 <form>
 <input type="text" name="họ" placeholder="Họ"> <input type="text" name="tên" placeholder="Tên"><br><br>
 <input type="text" placeholder="Số di dộng hoặc email"><br><br>
@@ -112,4 +110,6 @@
 <input type="radio" name="giới tính" value="Female"> Nữ
 <br>
 <input type="submit" value="Tạo tài khoản">
-
+*asterisks*Cao
+**asterisks**Tung
+**asterisks and _underscores_**Linh
