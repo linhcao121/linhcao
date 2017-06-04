@@ -1,6 +1,6 @@
 
-#.Tạo tài khoản mới 
-##. Luôn miễn phí 
+# Tạo tài khoản mới 
+## Luôn miễn phí 
 <form>
 <input type="text" name="họ" placeholder="Họ"> <input type="text" name="tên" placeholder="Tên"><br><br>
 <input type="text" placeholder="Số di dộng hoặc email"><br><br>
