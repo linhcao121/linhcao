@@ -110,6 +110,6 @@
 <input type="radio" name="giới tính" value="Female"> Nữ
 <br>
 <input type="submit" value="Tạo tài khoản">
-*asterisks*Cao
-**asterisks**Tung
-**asterisks and _underscores_**Linh
+*Cao*
+**Tung**
+_Linh_
