@@ -1,6 +1,11 @@
 
 # Tạo tài khoản mới 
 ## Luôn miễn phí 
+
+*Cao*
+**Tung**
+_Linh_
+
 <form>
 <input type="text" name="họ" placeholder="Họ"> <input type="text" name="tên" placeholder="Tên"><br><br>
 <input type="text" placeholder="Số di dộng hoặc email"><br><br>
@@ -110,6 +115,3 @@
 <input type="radio" name="giới tính" value="Female"> Nữ
 <br>
 <input type="submit" value="Tạo tài khoản">
-*Cao*
-**Tung**
-_Linh_
